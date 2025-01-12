@@ -50,5 +50,5 @@
 
 ### Contact Me  
 - 📫 **Email:** loiaconobruno@gmail.com  
-- 📄 Want to see my portfolio or CV? [Click here](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx).  
+- 📄 Want to see my portfolio? [Click here](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx).  
   
