@@ -18,7 +18,7 @@
 ### Skills & Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,css,discord,postgre,github,html,java,js,linux,mongodb,nodejs,postman,react,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,css,discord,postgres,github,html,java,js,linux,mongodb,nodejs,postman,react,vscode&perline=10" />
   </a>
 </p>
 
