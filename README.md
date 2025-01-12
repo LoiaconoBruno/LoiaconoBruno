@@ -27,8 +27,7 @@
 ---
 
 ### Achievements  
-- 🏆 Check out my diplomas and certifications [**here**](#).  
-*(Replace "#" with the link to your diplomas folder or repository)*  
+- 🏆 Check out my diplomas and certifications [**here**](https://github.com/LoiaconoBruno/LoiaconoBruno/tree/main/curso). 
 
 ---
 
@@ -52,4 +51,4 @@
 ### Contact Me  
 - 📫 **Email:** loiaconobruno@gmail.com  
 - 📄 Want to see my portfolio or CV? [Click here](#).  
-*(Replace "#" with the link to your portfolio or uploaded CV)*  
+  
