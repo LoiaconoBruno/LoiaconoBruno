@@ -35,7 +35,7 @@
 ### Hobbies  
 - 💻 I’m passionate about computers, their components, and the technology behind them.
 - 🎮 I love exploring game design, from stunning visuals to the powerful software that brings ideas to life
-- 🎣 I like fishing in the river
+- 🧓 I like fishing in the river during my free time.
 
 ---
 
