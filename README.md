@@ -1,12 +1,51 @@
-## Hi there 👋
+## Hello, I'm Bruno Loiacono 👋
 
-<!--
-**LoiaconoBruno/LoiaconoBruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-Here are some ideas to get you started:
+### About Me  
+- 🎓 I’m currently studying **Backend Development**, **Cloud Infrastructure**, and **Cybersecurity**.  
+- 🌟 My goal is to make an impact in the tech world by helping companies automate their tasks and develop advanced software solutions.  
+- 💻 Passionate about learning cutting-edge technologies and improving every day!  
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+---
 
+### Current Focus  
+- 📚 Right now, I’m dedicating my time to expanding my knowledge and skill set.  
+- 🤝 I’m open to **freelancing opportunities**.  
+
+---
+
+### Skills & Tools  
 <p align="center">
--->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,nextjs,nodejs,postman,react,redux,tailwind,ts,vscode&perline=10" />
+  </a>
+</p>
+
+---
+
+### Achievements  
+- 🏆 Check out my diplomas and certifications [**here**](#).  
+*(Replace "#" with the link to your diplomas folder or repository)*  
+
+---
+
+### Hobbies  
+- 🎮 I enjoy computers, playing PC games, and fishing.  
+
+---
+
+### Connect With Me 🤝  
+<p align="center">
+  <a href="https://www.linkedin.com/in/BrunoLoiacono/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://twitter.com/LoiaconoBruno08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" /></a> 
+  <a href="https://www.instagram.com/brunoloiacono__/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a>
+  <a href="https://discordapp.com/users/Bl" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" /></a>
+</p>  
+
+---
+
+### Contact Me  
+- 📫 **Email:** loiaconobruno@gmail.com  
+- 📄 Want to see my portfolio or CV? [Click here](#).  
+*(Replace "#" with the link to your portfolio or uploaded CV)*  
