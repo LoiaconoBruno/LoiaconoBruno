@@ -2,7 +2,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-### About Me  
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me  About Me  
 - 🎓 I’m currently studying **Backend Development**, **Cloud Infrastructure**, and **Cybersecurity**.  
 - 🌟 My goal is to make an impact in the tech world by helping companies automate their tasks and develop advanced software solutions.  
 - 💻 Passionate about learning cutting-edge technologies and improving every day!  
