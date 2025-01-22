@@ -50,5 +50,7 @@
 
 ### Contact Me  
 - 📫 **Email:** loiaconobruno08@gmail.com  
+- 📞 **Phone:** +54 9 11 3858-6002  
 - 📄 Want to see my portfolio? [Click here](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx).  
+
   
