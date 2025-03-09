@@ -40,7 +40,7 @@
 
 ### 🤝 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/BrunoLoiacono/" target="_blank">
+  <a href="[https://www.linkedin.com/in/BrunoLoiacono/](https://www.linkedin.com/in/bruno-loiacono-217549346/)" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="https://twitter.com/LoiaconoBruno08" target="_blank">
