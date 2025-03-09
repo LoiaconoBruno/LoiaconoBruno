@@ -28,7 +28,7 @@
 ---
 
 ### 🏆 Achievements  
-- 📜 Check out my diplomas and certifications [**here**](https://github.com/LoiaconoBruno/LoiaconoBruno/tree/main/curso).  
+- 📜 Check out my diplomas and certifications [**here**](https://github.com/LoiaconoBruno/LoiaconoBruno/tree/main/Diplomas).  
 
 ---
 
