@@ -1,17 +1,19 @@
-## Hello, I'm Bruno Loiacono 👋
+## 👋 Hey, I'm Bruno Loiacono  
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me  
-- 🎓 I’m currently studying **Backend Development**, **Cloud Infrastructure**, and **Cybersecurity**.  
-- 🌟 My goal is to make an impact in the tech world by helping companies automate their tasks and develop advanced software solutions.  
-- 💻 Passionate about learning cutting-edge technologies and improving every day!  
+### 🚀 About Me  
+- 🎓 **Backend Developer | Cloud Enthusiast | Tech Educator**  
+- 🌟 Passionate about **automation, software development, and cloud computing**.  
+- 📢 **I love sharing knowledge!** I run a Discord community where I provide educational resources and tutorials.  
+- 💡 Always learning and exploring **new technologies**.  
 
 ---
 
-### 🚀 Current Focus  
-- 📚 Expanding my knowledge and skill set.  
-- 🤝 Open to **freelancing opportunities**.  
+### 🔥 Current Focus  
+- 📚 Expanding my expertise in **backend development** and **cloud infrastructure**.  
+- 🎯 Helping others by creating and sharing **high-quality learning materials**.  
+- 🤝 Open to **freelance and collaboration opportunities**.  
 
 ---
 
@@ -30,14 +32,15 @@
 
 ---
 
-### 🎮 Hobbies  
-- 💻 Passionate about computers, their components, and the technology behind them.  
-- 🎮 Exploring game design, from stunning visuals to the powerful software that brings ideas to life.  
-- 💪 Fitness and healthy habits—fueling discipline in life and code.  
+### 🎯 Interests & Continuous Learning  
+- 🖥 **Computer Science & Cloud Technologies:** Optimizing systems and exploring modern infrastructure solutions.  
+- 📢 **Tech Education & Community Building:** Running a Discord community to help others grow in the field.  
+- 📖 **Automation & Backend Development:** Constantly improving my skills in **high-performance and scalable systems**.  
+- 🏋️ **Discipline & Growth Mindset:** Applying productivity and discipline to both life and coding.  
 
 ---
 
-### 🤝 Connect With Me  
+### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-loiacono-217549346/" target="_blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
@@ -59,3 +62,9 @@
 - 📫 **Email:** loiaconobruno08@gmail.com  
 - 📞 **Phone:** +54 9 11 3858-6002  
 - 📄 Want to see my portfolio? [Click here](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx).  
+
+---
+
+### 🎯 Let's Build and Learn Together!  
+🚀 If you're interested in **tech, backend development, or cloud computing**, feel free to **connect with me**! Let's share knowledge and grow together.  
+
