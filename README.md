@@ -36,14 +36,15 @@
 
 #### ☁️ DevOps & Cloud  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman&perline=7" />
 </p>
 
 #### 🧰 Other Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim (use image replacement)" />
   <img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim (use image replacement)" />
-  <img src="https://skillicons.dev/icons?i=github,discord&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode&perline=6" />
+
 </p>
 
 ---
