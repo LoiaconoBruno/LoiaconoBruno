@@ -1,42 +1,63 @@
 ## 👋 Hey, I'm Bruno Loiacono  
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 ### 🚀 About Me  
-- 🎓 **Backend Developer | Cloud Enthusiast | Tech Educator**  
-- 🌟 Passionate about **automation, software development, and cloud computing**.  
-- 📢 **I love sharing knowledge!** I run a Discord community where I provide educational resources and tutorials.  
-- 💡 Always learning and exploring **new technologies**.  
+- 🎓 **Software Developer | Tech Educator**  
+- 🌟 Passionate about **automation, software engineering**, and **clean code**  
+- 📢 I love **sharing knowledge** — I run a Discord community where I share tutorials, tips, and educational resources  
+- 💡 Lifelong learner, always exploring **new technologies** and **best practices**  
 
 ---
 
-### 🔥 Current Focus  
-- 📚 Expanding my expertise in **backend development** and **cloud infrastructure**.  
-- 🎯 Helping others by creating and sharing **high-quality learning materials**.  
-- 🤝 Open to **freelance and collaboration opportunities**.  
+### 🎯 Current Focus  
+- 🔧 Deepening my expertise in **backend** and growing in **frontend development**  
+- 📚 Creating and sharing **high-quality learning materials** for developers  
+- 🤝 Open to **freelance work** and **collaborative projects**  
 
 ---
 
-### 🛠 Skills & Tools  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mysql,mongodb,postgres&perline=5" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,discord&perline=6" />
-  </a>
+### 🛠️ Skills & Tools  
+
+#### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,html,css,bash&perline=8" />
+</p>
+
+#### ⚙️ Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind,nextjs,vite&perline=7" />
+</p>
+
+#### 🗃️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+</p>
+
+#### ☁️ DevOps & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git,vscode,postman&perline=7" />
+</p>
+
+#### 🧰 Other Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim (use image replacement)" />
+  <img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim (use image replacement)" />
+  <img src="https://skillicons.dev/icons?i=github,discord&perline=6" />
 </p>
 
 ---
 
 ### 🏆 Achievements  
-- 📜 Check out my diplomas and certifications [**here**](https://github.com/LoiaconoBruno/LoiaconoBruno/tree/main/Diplomas).  
+- 📜 View my diplomas and certifications [**here**](https://github.com/LoiaconoBruno/LoiaconoBruno/tree/main/Diplomas)
 
 ---
 
-### 🎯 Interests & Continuous Learning  
-- 🖥 **Computer Science & Cloud Technologies:** Optimizing systems and exploring modern infrastructure solutions.  
-- 📢 **Tech Education & Community Building:** Running a Discord community to help others grow in the field.  
-- 📖 **Automation & Backend Development:** Constantly improving my skills in **high-performance and scalable systems**.  
-- 🏋️ **Discipline & Growth Mindset:** Applying productivity and discipline to both life and coding.  
+### 🌱 Interests & Learning Goals  
+- ☁️ **Cloud & System Architecture:** Building scalable, modern backend infrastructures  
+- 👨‍🏫 **Tech Education & Community Building:** Supporting others through mentorship and content  
+- ⚙️ **Automation & Performance:** Optimizing workflows and systems  
+- 🧠 **Mindset:** Applying focus, discipline, and consistency to life and development  
 
 ---
 
@@ -55,13 +76,12 @@
 
 ---
 
-### 📩 Contact Me  
+### 📬 Contact  
 - 📫 **Email:** loiaconobruno08@gmail.com  
-- 📞 **Phone:** +54 9 11 3858-6002  
-- 📄 Want to see my portfolio? [Click here](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx).  
+- 📱 **Phone:** +54 9 11 3858-6002  
+- 📄 Want to see my work? [Check out my portfolio](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx)  
 
 ---
 
-### 🎯 Let's Build and Learn Together!  
-🚀 If you're interested in **tech, backend development, or cloud computing**, feel free to **connect with me**! Let's share knowledge and grow together.  
-
+### 🚀 Let’s Build and Learn Together!  
+If you’re into **software development, backend engineering, or tech education**, let’s connect and grow together 💻🔥  
