@@ -21,17 +21,17 @@
 
 #### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,go,python,bash&perline=8" />
 </p>
 
 #### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask,fiber&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask&perline=7" />
 </p>
 
 #### 🗃️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
 </p>
 
 #### ☁️ DevOps & Cloud  
@@ -62,6 +62,10 @@
 - 👨‍🏫 **Tech Education & Community Building:** Supporting others through mentorship and content  
 - ⚙️ **Automation & Performance:** Optimizing workflows and systems  
 - 🧠 **Mindset:** Applying focus, discipline, and consistency to life and development  
+
+---
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/LoiaconoBruno/LoiaconoBruno/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
 
 ---
 
