@@ -21,7 +21,7 @@
 
 #### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,java,js,ts,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,bash&perline=8" />
 </p>
 
 #### ⚙️ Frameworks & Libraries  
