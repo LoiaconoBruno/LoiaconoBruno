@@ -64,11 +64,13 @@
 - 🧠 **Mindset:** Applying focus, discipline, and consistency to life and development  
 
 ---
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/LoiaconoBruno/LoiaconoBruno/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/LoiaconoBruno/LoiaconoBruno/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
-
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-loiacono-217549346/" target="_blank">
