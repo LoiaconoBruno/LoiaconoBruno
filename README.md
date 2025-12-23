@@ -26,7 +26,7 @@
 
 #### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask,fiber, gin&perline=7" />
 </p>
 
 #### 🗃️ Databases  
@@ -36,10 +36,13 @@
 
 #### ☁️ DevOps & Cloud  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,git,github,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=devops,aws,azure,docker,kubernetes,jenkins,git,github,gitlab,postman&perline=7" />
 </p>
 
-#### 🧰 Other Tools  
+### 🖥️ Operating Systems
+<p> <img src="https://skillicons.dev/icons?i=windows,linux,apple&perline=6" /> </p>
+
+#### 🧰 Text Editor  
 <p>
   <img src="https://skillicons.dev/icons?i=vim&theme=dark" alt="Vim (use image replacement)" />
   <img src="https://skillicons.dev/icons?i=neovim&theme=dark" alt="Neovim (use image replacement)" />
