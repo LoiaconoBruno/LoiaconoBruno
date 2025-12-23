@@ -26,12 +26,12 @@
 
 #### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind,nextjs,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,react,tailwind,nextjs,vite&perline=7" />
 </p>
 
 #### 🗃️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=6" />
 </p>
 
 #### ☁️ DevOps & Cloud  
