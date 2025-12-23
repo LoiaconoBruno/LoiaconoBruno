@@ -26,7 +26,7 @@
 
 #### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,tailwind,nextjs,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,vite&perline=7" />
 </p>
 
 #### 🗃️ Databases  
@@ -36,7 +36,7 @@
 
 #### ☁️ DevOps & Cloud  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,git,github,postman&perline=7" />
 </p>
 
 #### 🧰 Other Tools  
