@@ -38,13 +38,9 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,python,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,bash&perline=8" />
 </p>
 
-#### ⚙️ Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,flask,mysql,postgres,mongodb&perline=7" />
-</p>
 
 #### 🧰 Tools
 <p>
