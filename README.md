@@ -10,6 +10,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@brunoloiacono08)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/brunoloiacono__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-loiacono-217549346/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qzp82KVhs)
 
 ---
 
@@ -79,6 +80,7 @@
 ### 📬 Contact
 - 📫 **Email:** loiaconobruno08@gmail.com
 - 📱 **Phone:** +54 9 11 3858-6002
+- 💬 **Discord:** [Join my server](https://discord.gg/qzp82KVhs)
 - 📄 Want to see my work? [Check out my portfolio](https://github.com/LoiaconoBruno/LoiaconoBruno/blob/main/Portafolio.docx)
 
 ---
